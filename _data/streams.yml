@@ -1,6 +1,4 @@
-# display_name (eg. TJC Adam Singapore Livestream)
-# stream_url (string)
-# description (string) eg. “English and Chinese stream at every Sat 10am and 2pm Singapore Time”
+# List of streams
 
 - display_name: TJC Adam Singapore Livestream
   url: https://twitch.tv/tjcadam
