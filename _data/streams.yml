@@ -3,5 +3,5 @@
 # description (string) eg. “English and Chinese stream at every Sat 10am and 2pm Singapore Time”
 
 - display_name: TJC Adam Singapore Livestream
-  stream_url: https://twitch.tv/tjcadam
+  url: https://twitch.tv/tjcadam
   description: English and Chinese stream at every Sat 10am and 2pm (UTC +8, Singapore Time)
