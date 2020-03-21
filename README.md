@@ -1,5 +1,8 @@
 TJC Streams
 ======================
+Just a static site built with Jekyll to show available TJC livestreams
+
+Define a stream under _data/streams.yml
 
 # Some initial data model ideas
 
