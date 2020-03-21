@@ -1,25 +1,31 @@
 TJC Streams
 ======================
 
-# Data model ideas
+# Some initial data model ideas
 
 ## Simple version
-Minimal data to enable displaying list of data
+Minimal data parsing version
 
 Streams
 - display_name (eg. TJC Adam Singapore Livestream)
-- stream_url (string)
-- description (string) eg. “English and Chinese stream at every Sat 10am and 2pm Singapore Time”
+- url (string)
+- languages ([string]) eg. “English”, “Chinese”
+- when_description (string) eg. “Sat 10am and 2pm (UTC +8, SGT)”
 
 
 ## Complicated version
-With fine grained data to enable features like search and filtering. Such as displaying times in viewer’s time zones, search and filter streams that are airing now.
+With fine grained data and proper iso time data for parsing to enable features like search and filtering.
+
+To enable search and filter like:
+1. Know viewer’s time zones and filter streams that are airing now
+2. Filter country
+3. Filter languages
 
 Streams
 - church_name (string) eg. Adam
 - country (string) eg. Singapore
 - timeslots ([Timeslot])
-- stream_url (string)
+- url (string)
 - language ([string]) eg. “English”, “Chinese”
 
 
