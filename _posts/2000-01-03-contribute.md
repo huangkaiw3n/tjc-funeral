@@ -1,5 +1,5 @@
 ---
-title: "usage"
+title: "contribute"
 bg: '#63BD2F'
 color: white
 fa-icon: plug
