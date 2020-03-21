@@ -1,8 +1,2 @@
 
-
-Design by Tim O'Brien [t413.com](http://t413.com/)
-&mdash;
-[SinglePaged theme](https://github.com/t413/SinglePaged)
-&mdash;
-this site is [open source]({{ site.source_link }})
-
+Want to contribute or add a stream? YES you are wanted. Add an issue or create a PR at [https://github.com/huangkaiw3n/tjc-livestreams]({{ site.source_link }})
