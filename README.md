@@ -1,12 +1,19 @@
 TJC Streams
 ======================
-Just a static site built with Jekyll to show available TJC livestreams
+A single page static site built with Jekyll to list available TJC livestreams
 
-Define a stream under _data/streams.yml
+# Want to add a stream?
+Streams are all defined under [\_data/streams.yml] (https://github.com/huangkaiw3n/tjc-livestreams/blob/gh-pages/_data/streams.yml)
 
-# Some initial data model ideas
+Simply follow the format of a stream there and add on to the file by creating a PR, OR create a new issue with the stream information and I'll add it in.
 
-## Simple version
+
+# Contribute
+
+If you have some web design skills and would like to add features and improve the design, feel free to!
+
+## Ideas
+### Right now, Simple version
 Minimal data parsing version
 
 Streams
@@ -16,7 +23,7 @@ Streams
 - when_description (string) eg. “Sat 10am and 2pm (UTC +8, SGT)”
 
 
-## Complicated version
+### Maybe in the future, Complicated version
 With fine grained data and proper iso time data for parsing to enable features like search and filtering.
 
 To enable search and filter like:
