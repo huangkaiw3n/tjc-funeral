@@ -5,7 +5,9 @@ color: white
 fa-icon: plug
 ---
 
-### Also see **README.md** [*on github!*](https://github.com/huangkaiw3n/tjc-livestreams)
+## Want to add a stream? Improve this site?
+
+### See **README.md** [*on github!*](https://github.com/huangkaiw3n/tjc-livestreams)
 {: style="margin-top:100px;"}
 
 
