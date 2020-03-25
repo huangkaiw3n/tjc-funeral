@@ -20,7 +20,6 @@ description: "Find all the available tjc livestreams here"
 source_link: "https://github.com/huangkaiw3n/tjc-livestreams"
 favicon:     "img/favicon.png"
 touch_icon:  "img/apple-touch-icon.png"
-google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
 
 
 ### template colors, used site-wide via css ###
