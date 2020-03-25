@@ -91,5 +91,14 @@ $(document).ready(function (){
         }
 	});
 
+    $.ajax({
+      url: "https://beta.ourmanna.com/api/v1/get/?format=text&order=random",
+      crossDomain: true,
+      success: function(result){
+         $("#newQuote")
+           .html(result);
+      }
+    });
+
 });
 
