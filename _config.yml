@@ -15,7 +15,6 @@ markdown: kramdown
 
 ### content configuration ###
 title:       "TJC Livestreams"
-keywords:    "true jesus church, tjc, livestreams, streams"
 description: "Find all the available tjc livestreams here"
 source_link: "https://github.com/huangkaiw3n/tjc-livestreams"
 favicon:     "img/favicon.png"
