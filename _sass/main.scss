@@ -28,6 +28,9 @@
   .col-4 {
     flex-basis: 25%;
   }
+  .url {
+    word-break: break-word;
+  }
 
   @media all and (max-width: 767px) {
     .table-header {
