@@ -1,6 +1,7 @@
 TJC Streams
 ======================
 A single page static site built with Jekyll to list available TJC livestreams
+View the Jekyll docs [here](https://jekyllrb.com/docs/)
 
 # Want to add a stream?
 Streams are all defined under [\_data/streams.yml] (https://github.com/huangkaiw3n/tjc-livestreams/blob/gh-pages/_data/streams.yml)
