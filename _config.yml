@@ -14,8 +14,8 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "TJC Livestreams"
-description: "Find all the available tjc livestreams here"
+title:       "True Jesus Church Livestreams"
+description: "Find available TJC livestreams or view the Singapore Livestream here"
 source_link: "https://github.com/huangkaiw3n/tjc-livestreams"
 favicon:     "img/favicon.png"
 # touch_icon:  "img/apple-touch-icon.png"
