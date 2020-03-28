@@ -13,3 +13,10 @@
     - English
     - Chinese
   when_description: Sat (10:45am & 12:45pm), UTC +0
+
+- display_name: TJC Christchurch NZ Livestream
+  url: https://youtube.com/channel/UCkSUTuErA2TyXp2ifq7X9dw
+  languages:
+    - English
+    - Chinese
+  when_description: Sat (10am), Mon Wed Fri (7:30pm), UTC +12
