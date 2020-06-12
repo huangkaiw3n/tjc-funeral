@@ -12,8 +12,7 @@ Streams every Saturday @ 10:30am & 2:45pm and Tuesdays, Wednesdays, Fridays @ 7:
 
 <div class="icontain">
   <iframe
-    src="https://player.twitch.tv/?channel=tjcadam"
+    src="https://player.twitch.tv/?channel=tjcadam&parent=livestreams.tjc.sg"
     allowfullscreen>
   </iframe>
 </div>
-
