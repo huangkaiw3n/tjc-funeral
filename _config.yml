@@ -14,9 +14,9 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "True Jesus Church Livestreams"
-description: "Find available TJC livestreams or view the Singapore Livestream here"
-source_link: "https://github.com/huangkaiw3n/tjc-livestreams"
+title:       "True Jesus Church Funeral Service"
+description: "Watch TJC Singapore Funeral Service here"
+source_link: "https://github.com/huangkaiw3n/tjc-funeral"
 favicon:     "img/favicon.png"
 # touch_icon:  "img/apple-touch-icon.png"
 
@@ -33,4 +33,3 @@ colors:
 
 kramdown:
   auto_ids:  false
-

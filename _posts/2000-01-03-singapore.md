@@ -1,19 +1,17 @@
 ---
-title: "singapore stream"
-bg: orange
-color: white
+title: "TJC Funeral Service"
+bg: aliceblue
+color: black
 ---
 
-# Singapore Livestream from Twitch
+# TJC Funeral Service
 
-Streams every Saturday @ 10:30am & 2:45pm and Tuesdays, Wednesdays, Fridays @ 7:30pm. SGT UTC +8
-{: style="font-weight:500"}
-
-You may find information of other True Jesus Church streams at <a style="color:blue" href="https://tjc.org/tjc-live-stream">tjc.org/tjc-live-stream</a>
+"Come to Me, all you who labor and are heavy laden, and I will give you rest." (Matt 11:28)
+{: style="color:gray; text-align: center;"}
 
 <div class="icontain">
   <iframe
-    src="https://player.twitch.tv/?channel=tjcadam&parent=livestreams.tjc.sg"
+    src="https://player.twitch.tv/?channel=tjcfuneral&parent=funeral.tjc.sg"
     allowfullscreen>
   </iframe>
 </div>
